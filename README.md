@@ -1,4 +1,4 @@
-# End-to-End-Medical-Chatbot
+# A Medical-Chatbot
 
 # STEP1)Create a conda environment 
 '''bash
