@@ -1,5 +1,4 @@
-# A Medical-Chatbot
-=======
+
 # 🩺 Medibot – A Medical Chatbot
 
 Medibot is an **end-to-end medical question-answering chatbot** built using **Retrieval-Augmented Generation (RAG)**.  
@@ -7,12 +6,6 @@ It allows users to ask medical questions and receive accurate, context-aware res
 
 The system uses **Pinecone** for vector storage, **HuggingFace embeddings** for semantic search and **Ollama (Mistral)** as the local LLM for answer generation.
 
-
-# STEP2)Install requirements
-'''bash
-pip install -r requirements.txt
-''' 
-=======
 ---
 
 ## 🚀 Features
